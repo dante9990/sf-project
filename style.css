@@ -10,7 +10,7 @@ h1, h2 {
 }
 
 body {
-    background-color: gray;
+    background-color: rgb(102, 87, 87);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
