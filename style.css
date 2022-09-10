@@ -44,7 +44,7 @@ body {
     content: '';
     width: 20px;
     height: 20px;
-    background: url('/img/visibility_black_24dp.svg') no-repeat center;
+    background: url('./img/visibility_black_24dp.svg') no-repeat center;
     background-size: cover;
     left: -13px;
     bottom: 13px;
@@ -55,7 +55,7 @@ body {
     content: '';
     width: 20px;
     height: 20px;
-    background: url('/img/book_black_24dp.svg') no-repeat center;
+    background: url('./img/book_black_24dp.svg') no-repeat center;
     background-size: cover;
     left: -13px;
     bottom: 13px;
@@ -66,7 +66,7 @@ body {
     content: '';
     width: 20px;
     height: 20px;
-    background: url('/img/work_black_24dp.svg') no-repeat center;
+    background: url('./img/work_black_24dp.svg') no-repeat center;
     background-size: cover;
     left: -13px;
     bottom: 13px;
@@ -77,7 +77,7 @@ body {
     content: '';
     width: 20px;
     height: 20px;
-    background: url('/img/extension_black_24dp.svg') no-repeat center;
+    background: url('./img/extension_black_24dp.svg') no-repeat center;
     background-size: cover;
     left: -13px;
     bottom: 13px;
@@ -88,7 +88,7 @@ body {
     content: '';
     width: 20px;
     height: 20px;
-    background: url('/img/webhook_black_24dp.svg') no-repeat center;
+    background: url('./img/webhook_black_24dp.svg') no-repeat center;
     background-size: cover;
     left: -13px;
     bottom: 13px;
@@ -131,7 +131,7 @@ body {
 .main__title::after {
     position: absolute;
     content: '';
-    background: url('/img/account_circle_black_24dp.svg') no-repeat center;
+    background: url('./img/account_circle_black_24dp.svg') no-repeat center;
     width: 40px;
     height: 40px;
     bottom: 40px;
